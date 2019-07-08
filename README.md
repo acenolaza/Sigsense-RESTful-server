@@ -1,4 +1,4 @@
-# Sigsense RESTfull Server
+# Sigsense RESTful Server
 
 This server uses Spring Boot framework to enable all features required in the exercise. 
 
